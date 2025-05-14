@@ -1,0 +1,8 @@
+insert,a, 10
+insert, b, 9
+insert, c, 20
+insert, d, 19
+insert, e, 18
+dump_index
+delete,a
+dump_index
